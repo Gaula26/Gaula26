@@ -23,6 +23,7 @@
 ### 🧾 Evidence
 - Completed online career readiness assessment.
 - Attended a virtual career guidance seminar.
+- Evidence: See file.
 
 ### 💬 Reflection (STAR Technique)
 **S:** Faced uncertainty about career paths.  
@@ -40,7 +41,8 @@
 - - Excellent verbal and written communication abilities.
   - Strong in problem solving
   - Critical thinking and delivering effective presentation.
-  - Design, collaboration and research 
+  - Design, collaboration and research
+ -Evidence: See file.
 
 ### 💬 Reflection (STAR Technique)
 **S:** Needed to identify technical strengths.  
@@ -55,6 +57,7 @@
 ### 🧾 Evidence
 - Helped me to identify suitable work roles and environments.
 - Learned about different personality types.
+- Evidence: See file.
 
 ### 💬 Reflection (STAR Technique)
 **S:** Unsure about personal traits affecting work style.  
@@ -69,6 +72,7 @@
 ### 🧾 Evidence
 - Developed a professional CV using MS Word 
 - CV includes personal statement, soft skills, education, and technical skills.
+- Evidence: See file.
 
 ### 💬 Reflection (STAR Technique)
 **S:** Needed a polished CV for job applications.  
