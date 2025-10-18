@@ -13,8 +13,7 @@
 3. [Mock Interview](#3-personality-assessment)
 4. [Professional Networking](#4-create-a-cv)
 5. [Workplace Etiquette](#5-cv-submission)
-6. [Additional Artifacts](#6-additional-artifacts)
-7. [Overall Reflection Summary](#7-reflection-summary)
+6. [Overall Reflection Summary](#7-reflection-summary)
 
 ---
 
