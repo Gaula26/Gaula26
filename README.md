@@ -8,108 +8,133 @@
 ---
 
 ## 📑 Table of Contents
-1. [Career Counselling](#1-career-counselling)
-2. [Skills and Interests](#2-skills-and-interests)
-3. [Personality Assessment](#3-personality-assessment)
-4. [Create a CV](#4-create-a-cv)
-5. [CV Submission](#5-cv-submission)
+1. [Business Communication](#1-career-counselling)
+2. [Interview Skills](#2-skills-and-interests)
+3. [Mock Interview](#3-personality-assessment)
+4. [Professional Networking](#4-create-a-cv)
+5. [Workplace Etiquette](#5-cv-submission)
 6. [Additional Artifacts](#6-additional-artifacts)
-7. [Reflection Summary](#7-reflection-summary)
+7. [Overall Reflection Summary](#7-reflection-summary)
 
 ---
 
-## 1. Career Counselling
+## 1. Business Coommunication
 
 ### 🧾 Evidence
 - Completed online career readiness assessment.
-- Attended a virtual career guidance seminar.
+- Attended a virtual career guidance seminar that included modules on:
+- - professional communication
+  - email etiquette
+  - effective self-presentation in workplace settings.
 - Evidence: See file.
 
 ### 💬 Reflection (STAR Technique)
-**S:** Faced uncertainty about career paths.  
-**T:** Tasked with identifying suitable IT career roles.  
-**A:** Engaged in career counselling sessions and used career tools.  
-**R:** Gained clarity and aligned goals with relevant ICT roles.
+**S:** As I prepared for internships in the ICT industry, I realized that technical ability alone wouldn’t guarantee success, clear and professional communication is essential.
+
+**T:** Tasked to develop and demonstrate foundational business communication skills relevant to workplace interactions. 
+
+**A:** completed a structured career readiness assessment and actively participated in a virtual career guidance seminar that covered topics such as professional tone, virtual meeting conduct, and how to articulate my skills clearly to employers.  
+
+**R:** I now understand how to communicate clearly and professionally in emails, interviews, and team settings.
 
 ---
 
-## 2. Skills and Interests
+## 2. Interview Skills
 
 ### 🧾 Evidence
-- Technical skills: Java, Python programming, JavaScript, HTML and CSS.
-- Soft skills:
-- - Excellent verbal and written communication abilities.
-  - Strong in problem solving
-  - Critical thinking and delivering effective presentation.
-  - Design, collaboration and research
+- Completed an online “Interview Skills” quiz.
+- Formative assessment:
+- - purpose of interviews.
+  - the CAR method
+  - company research.
+  - answering common questions such as “Tell me about yourself” and “What is your greatest weakness?”
  -Evidence: See file.
 
 ### 💬 Reflection (STAR Technique)
-**S:** Needed to identify technical strengths.  
-**T:** Created a skills inventory.  
-**A:** Documented skills and analyzed project experiences.  
-**R:** Realized strong skills in front-end development and teamwork.
+**S:** Needed to prepare for real job interviews but didn’t know how to structure my answers. 
+
+**T:** Had to learn how to answer common interview questions confidently and professionally. 
+
+**A:** Completed the Interview Skills quiz, which taught me methods like CAR (Challenge-Action-Result) and how to research companies before interviews.
+
+**R:** I now feel ready to answer tough questions clearly and turn weaknesses into growth opportunities.
 
 ---
 
-## 3. Personality Assessment
+## 3. Mock Interview
 
 ### 🧾 Evidence
-- Helped me to identify suitable work roles and environments.
-- Learned about different personality types.
-- Evidence: See file.
-
-### 💬 Reflection (STAR Technique)
-**S:** Unsure about personal traits affecting work style.  
-**T:** Took a personality assessment.  
-**A:** Interpreted results and discussed in class.  
-**R:** Learned I’m an analytical and structured person — ideal for QA roles.
-
----
-
-## 4. Create a CV
-
-### 🧾 Evidence
-- Developed a professional CV using MS Word 
-- CV includes personal statement, soft skills, education, and technical skills.
-- Evidence: See file.
-
-### 💬 Reflection (STAR Technique)
-**S:** Needed a polished CV for job applications.  
-**T:** Design a compelling one-page CV.  
-**A:** Used feedback and examples to refine my document.  
-**R:** Finalized a CV I’m confident sharing with employers.
-
----
-
-## 5. CV Submission
-
-### 🧾 Evidence
-- Evidence: See file.
-
-### 💬 Reflection (STAR Technique)
-**S:** Deadline approaching for submission.  
-**T:** Ensure timely, accurate CV upload.  
-**A:** Followed submission guidelines and verified upload.  
-**R:** Submitted successfully before deadline.
-
----
-
-## 6. Additional Artifacts
-
+- Evidence: 
 - 🎥 See file[Mock interview](#)
 - 📸 Group project repo's on my profile
-  
+
+### 💬 Reflection (STAR Technique)
+**S:** I had never done a formal job interview before.
+
+**T:** I was required to participate in a mock technical interview. 
+
+**A:** I prepared my CV, rehearsed answers based on the questions in the instructions, and recorded the video professionally. 
+
+**R:** I received constructive feedback on my body language and technical explanations, which I will improve for real interviews.
+
 ---
 
-## 7. Reflection Summary
+## 4. Professional Networking 
 
-Through this portfolio, I’ve tracked my journey from uncertainty to clarity in career planning. I’ve gained a better understanding of my skills, strengths, and career goals. The activities helped me reflect on who I am, what I’m good at, and where I want to go. This GitHub portfolio shows my growth and readiness to enter the IT industry with confidence.
-It also helped me improve my self-awareness and communication skills.
-I now feel more prepared to apply for internships and contribute to real-world projects.
+### 🧾 Evidence
+- Completed an online “Professional Networking” quiz
+- formative assessment
+- - The purpose of networking
+  - The “golden rule”
+  - Common mistakes to avoid
+  - The first step in building a professional network.
+- Evidence: See file.
+
+### 💬 Reflection (STAR Technique)
+**S:** Wanted to build connections in the ICT industry but didn’t know where to start. 
+
+**T:** Needed to learn how to network professionally and avoid common mistakes.  
+
+**A:** Completed the Professional Networking quiz, which taught me the basics, like being genuine, preparing an elevator pitch, and starting with LinkedIn. 
+
+**R:** I now feel confident reaching out to professionals and building meaningful connections that can help my career
 
 ---
 
-> 🔗 **Portfolio Submission Date:** 23 May 2025  
+## 5. Workplace Etiquette
+
+### 🧾 Evidence
+- Completed an online “Workplace Etiquette” quiz
+- Key topics
+- - handling rude emails
+  - arriving on time for meetings
+  - managing confidential information
+  - using personal phones at work
+  - leaving early for personal reasons
+- Evidence: See file.
+
+### 💬 Reflection (STAR Technique)
+**S:** I wanted to understand how to behave professionally in a real workplace.  
+
+**T:** I needed to learn the do’s and don’ts of workplace etiquette. 
+
+**A:** I completed the Workplace Etiquette quiz, which taught me how to handle tough situations — like responding to rude emails or managing personal calls at work.
+
+**R:** I now know how to act respectfully and responsibly in any job, including the internship I am currently working at. This understanding helps me behave professionally, build trust, and integrate well within my team.
+
+---
+
+
+## 6. Overall Reflection Summary
+
+Through this portfolio, I’ve tracked my journey from uncertainty to clarity in career planning. I’ve gained a better understanding of my skills, strengths, and career goals. The activities helped me reflect on who I am, what I’m good at, and where I want to go. This GitHub portfolio shows my growth and readiness to enter the IT industry with confidence. It also helped me improve my self-awareness and communication skills. I now feel more prepared to apply for internships and contribute to real-world projects.
+
+I began by collecting artefacts from my work readiness training, including quizzes on Business Communication, Interview Skills, Professional Networking, and Workplace Etiquette, as well as my recorded Mock Interview. From these, I selected the most meaningful evidence that demonstrates my developing professionalism. Through structured reflection using the STAR technique, I connected each experience to real workplace scenarios, such as writing professional emails, preparing for interviews using the CAR method, building a LinkedIn network, and navigating workplace challenges like handling difficult messages or managing time responsibly. Most importantly, I now apply these lessons daily in my current internship, where I communicate more clearly, act with integrity, and collaborate effectively within my team.
+
+This portfolio is more than a requirement—it’s proof that I am not just a developer with technical skills, but a thoughtful, professional, and industry-ready upcoming graduate.
+
+---
+
+> 🔗 **Portfolio Submission Date:** 18 October 2025  
 > 📬 **Submitted to:** Blackboard (PRP370S – Project Presentation 3)
 
