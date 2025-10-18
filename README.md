@@ -8,12 +8,12 @@
 ---
 
 ## 📑 Table of Contents
-1. [Business Communication](#1-career-counselling)
-2. [Interview Skills](#2-skills-and-interests)
-3. [Mock Interview](#3-personality-assessment)
-4. [Professional Networking](#4-create-a-cv)
-5. [Workplace Etiquette](#5-cv-submission)
-6. [Overall Reflection Summary](#7-reflection-summary)
+1. [Business Communication](#1-Business-Communication)
+2. [Interview Skills](#2-Interview-Skills)
+3. [Mock Interview](#3-Mock-Interview)
+4. [Professional Networking](#4-Professional-Networking)
+5. [Workplace Etiquette](#5-Workplace-Etiquette)
+6. [Overall Reflection Summary](#6-Overall-Reflection-Summary)
 
 ---
 
